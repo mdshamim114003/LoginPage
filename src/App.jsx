@@ -1,13 +1,13 @@
 import * as React from 'react';
+import Login2 from './components/Login2';
 import Login from './components/Login';
-import Test from './components/Test';
 
 function App() {
   
   return (
     <>
-      {/* <Login /> */}
-      <Test />
+      {/* <Login2 /> */}
+      <Login />
     </>
   )
 }
